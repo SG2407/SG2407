@@ -1,6 +1,4 @@
-<div align="center">
 # 💫 About Me:
-</div> 
 Hi, I’m Sahil Gurjar 👋<br><br>🌱 A lifelong learner who enjoys exploring new ideas and turning them into meaningful projects.<br><br>💡 Passionate about problem-solving, creativity, and building things that make an impact.<br><br>🚀 Curious by nature — I love experimenting, learning from challenges, and improving along the way.<br><br>🤝 Open to collaborating, sharing knowledge, and growing together with the developer community.<br><br>🎯 Always striving to learn, create, and contribute in ways that push me a little further every day.
 
 
